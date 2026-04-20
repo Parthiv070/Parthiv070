@@ -7,5 +7,3 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthiv070&" alt="parthiv070" /></p>
